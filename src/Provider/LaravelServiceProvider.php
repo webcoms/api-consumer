@@ -17,6 +17,7 @@ class LaravelServiceProvider extends BaseProvider {
         parent::__construct($app);
 
     }
+
     public function register()
     {
     }
