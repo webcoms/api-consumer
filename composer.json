@@ -1,5 +1,5 @@
 {
-    "name": "optimus/api-consumer",
+    "name": "webcoms/api-consumer",
     "require": {
         "laravel/framework": "^9.0"
     },
